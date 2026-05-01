@@ -24,7 +24,6 @@ Currently engineering fintech solutions at **Payzap** and pursuing graduate stud
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 **Design & Strategy**
@@ -38,14 +37,15 @@ Currently engineering fintech solutions at **Payzap** and pursuing graduate stud
 
 ### 🚀 Key Impact
 *   **Fintech Architecture:** Optimized KYC microservices at Payzap, reducing latency by 25%.
-*   **Automation:** Built Shopify integrations handling 10,000+ daily transactions[cite: 1].
-*   **Quality First:** Consistently maintain 85% code coverage using Pytest and TDD[cite: 1].
+*   **Automation:** Built Shopify integrations handling 10,000+ daily transactions.
+*   **Quality First:** Consistently maintain 85% code coverage using Pytest and TDD.
 
 ---
 
 ### 📊 Performance Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=abubakr1010&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakr1010&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" width="300" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakr1010&theme=dark&hide_border=true&background=0D1117&stroke=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1010&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
 
 </div>
