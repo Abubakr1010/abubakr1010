@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abubakr Iqbal
-**Product Designer & Backend Software Engineer**
+** Backend Engineer & Product Designer**
 *Architecting scalable systems and premium digital experiences.*
 
 [Portfolio](https://abubakriqbal.design/) • [LinkedIn](https://www.linkedin.com/in/abubakriqbal1/) • [Email](mailto:abubakr.max@gmail.com)
@@ -10,7 +10,7 @@
 
 ### 💻 Engineering x Design 🎨
 I bridge the gap between complex backend architecture and high-end user interface design. 
-Currently engineering fintech solutions at **Payzap** and pursuing graduate studies in **Machine Learning**.
+Currently engineering fintech solutions at **Payzap** and pursuing studies in **Machine Learning**.
 
 ---
 
