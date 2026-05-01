@@ -6,14 +6,6 @@
 
 [Portfolio](https://abubakriqbal.design/) • [LinkedIn](https://www.linkedin.com/in/abubakriqbal1/) • [Email](mailto:abubakr.max@gmail.com)
 
----
-
-### 💻 Engineering x Design 🎨
-I bridge the gap between complex backend architecture and high-end user interface design. 
-Currently engineering fintech solutions at **Payzap** and pursuing studies in **Machine Learning**.
-
----
-
 ### 🛠️ Technical Ecosystem
 
 **Backend & Cloud**
@@ -32,6 +24,12 @@ Currently engineering fintech solutions at **Payzap** and pursuing studies in **
   <img src="https://img.shields.io/badge/Design_Systems-FFB400?style=for-the-badge&logo=design-systems&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
 </p>
+
+---
+
+### 💻 Engineering x Design 🎨
+I bridge the gap between complex backend architecture and high-end user interface design. 
+Currently engineering fintech solutions at **Payzap** and pursuing studies in **Machine Learning**.
 
 ---
 
