@@ -35,22 +35,8 @@ Currently engineering fintech solutions at **Payzap** and pursuing graduate stud
 
 ---
 
-### 🚀 Key Impact
-*   **Fintech Architecture:** Optimized KYC microservices at Payzap, reducing latency by 25%[cite: 1].
-*   **Automation:** Built Shopify integrations handling 10,000+ daily transactions[cite: 1].
-*   **Quality First:** Consistently maintain 85% code coverage using Pytest and TDD[cite: 1].
-
----
-
 ### 📊 Performance Metrics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakr1010&theme=dark&hide_border=true&background=0D1117&stroke=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="GitHub Streak" />
-
-**Language Proficiency**
-<p>
-  <code>Python</code> <img src="https://geps.dev/progress/95?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff" /> <br>
-  <code>SQL   </code> <img src="https://geps.dev/progress/85?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff" /> <br>
-  <code>Go    </code> <img src="https://geps.dev/progress/40?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff" />
-</p>
 
 </div>
