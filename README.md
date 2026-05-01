@@ -43,7 +43,9 @@ Currently engineering fintech solutions at **Payzap** and pursuing graduate stud
 
 ---
 
-### 📊 GitHub Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=Abubakr1010&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff" alt="Abubakr's GitHub Stats" />
+### 📊 Performance Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=abubakr1010&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakr1010&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e" width="300" />
 
 </div>
