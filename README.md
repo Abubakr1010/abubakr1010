@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abubakr Iqbal
-** Backend Engineer & Product Designer**
+** Backend Engineer **
 *Architecting scalable systems and premium digital experiences.*
 
 [Portfolio](https://abubakriqbal.design/) • [LinkedIn](https://www.linkedin.com/in/abubakriqbal1/) • [Email](mailto:abubakr.max@gmail.com)
